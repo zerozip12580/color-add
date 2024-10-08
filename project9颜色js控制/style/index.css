@@ -1,0 +1,87 @@
+#colorbox{
+    width: 400px;
+    height: 300px;
+    margin: 0 auto;
+    border-style: solid;
+}
+.color{
+    display: flex;
+    justify-content: center;
+    padding-top: 40px;
+}
+
+.red{
+    width: 60px;
+    height: 40px;    
+    font-size: large;
+    color: black;
+    background-color: red;
+    text-align: center;
+    padding: 15px 30px;
+    margin-right: 10px;
+    
+}
+.blue{
+    width: 60px;
+    height: 40px;    
+    font-size: large;
+    color: black;
+    background-color: blue;
+    text-align: center;
+    padding: 15px 30px;
+    margin-right: 10px;
+    
+}
+.green{
+    width: 60px;
+    height: 40px;    
+    font-size: large;
+    color: black;
+    background-color: green;
+    text-align: center;
+    padding: 15px 30px;
+    margin-right: 10px;
+    
+}
+.input{
+    display: flex;
+    justify-content: center;
+    padding-top: 40px;
+}
+#redin{
+    width: 60px;
+    height: 20px;
+    padding: 15px 30px;
+    margin-right: 10px;
+    border-radius: 30%;
+    border-color: aqua;
+    border-width: 5px;
+    font-size: 25px;
+}
+#bluein{
+    width: 60px;
+    height: 20px;
+    padding: 15px 30px;
+    margin-right: 10px;
+    border-radius: 30%;
+    border-color: aqua;
+    border-width: 5px;
+    font-size: 25px;
+}
+#greenin{
+    width: 60px;
+    height: 20px;
+    padding: 15px 30px;
+    margin-right: 10px;
+    border-radius: 30%;
+    border-color: aqua;
+    border-width: 5px;
+    font-size: 25px;
+}
+.startstop{
+    display: block;
+    width: 60px;
+    height: 40px;
+    margin: 20px auto;
+    background-color: white;
+}
